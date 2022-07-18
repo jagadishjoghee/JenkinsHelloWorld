@@ -2,6 +2,6 @@ package JenkinsHelloWorld;
 
 public class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Welcome to java program with Jenkins Training and changes made");
+        System.out.println("Welcome to Jenkins and Git integration");
     }
 }
